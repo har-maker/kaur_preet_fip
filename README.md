@@ -4,7 +4,11 @@
 <h1> PUNJABI THALI</h1>
 </head>
 <body>
-	<P>I am showing about punjabi cuisinesin my website.</P>
+
+<img src="images/pic1.jpg">
+
+
+<P>I am showing about punjabi cuisines in my website.</P>
 
 <h2> PUNJABI CUISINE</h2>
 
@@ -23,6 +27,10 @@ The local cuisine of Punjab is heavily influenced by the agriculture and farming
 <h2>Author</h2>
 
 <p>Harshpreet Kaur</p>
+
+<h2> License</h2>
+
+<P>This project is licensed under the MLT license</P>
 
 
 
